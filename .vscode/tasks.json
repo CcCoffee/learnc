@@ -7,7 +7,7 @@
             "-g",
             "${file}",
             "-o",
-            "${fileDirname}/build/${fileBasenameNoExtension}"
+            "${fileDirname}/../build/${fileBasenameNoExtension}"
         ],
         "options": {
             "cwd": "/usr/bin"
